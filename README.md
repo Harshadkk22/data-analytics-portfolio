@@ -1,3 +1,4 @@
+cd path/to/portfolio
 git init
 git add .
 git commit -m "Initial commit: 3 data projects (finance, steel, energy)"
